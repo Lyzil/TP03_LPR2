@@ -1,5 +1,13 @@
 package atividade02;
 
+/*
+ Nome: Luiz Gustavo Verissimo Monteiro
+ Prontuário: CB3030326
+
+ Nome: Geovanna Barros de Assunção 
+ Prontario: CB303271X
+*/
+
 public class Pessoa {
     private String nome;
     private static int kp;

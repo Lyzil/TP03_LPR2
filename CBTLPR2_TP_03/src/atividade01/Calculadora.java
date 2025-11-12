@@ -2,6 +2,9 @@ package atividade01;
 /*
  Nome: Luiz Gustavo Verissimo Monteiro
  Prontuário: CB3030326
+
+ Nome: Geovanna Barros de Assunção 
+ Prontario: CB303271X
 */
 import javax.swing.*;
 import java.awt.*;
